@@ -1,3 +1,3 @@
 setInterval(function () {
-  console.info('goodbye world')
+  console.info('this has all got very dark')
 }, 1000)
