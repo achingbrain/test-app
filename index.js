@@ -1,3 +1,3 @@
 setInterval(function () {
-  console.info('great big world')
+  console.info('teeny, tiny world')
 }, 1000)
